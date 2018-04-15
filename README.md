@@ -69,7 +69,7 @@ Smart-contract gets information about transactions in other blockchains from the
 **Positive case.**
 If all transactions are complited, then smart-contract will send reserved funds back to Quark Market.
 
-**Negative case**
+**Negative case.**
 For example, Quark Market does not work the right way.  
 Quark market got money from users but did not make transactions from transit wallets for users during expiration time.
 
